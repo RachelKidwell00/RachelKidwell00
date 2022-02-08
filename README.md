@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RachelKidwell00
-- 👀 I’m interested in ... ecology, conservation, GIS
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Rachel Kidwell!
+- I’m interested in ecology, cats, and nature.
+- I’m currently studying at UMBC!
 
 <!---
 RachelKidwell00/RachelKidwell00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
